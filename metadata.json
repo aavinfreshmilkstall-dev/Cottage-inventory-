@@ -1,0 +1,6 @@
+{
+  "name": "Cottage Industry Management System",
+  "description": "Complete inventory management, raw material purchasing, product SOP recipe costing, batch production stock conversion, and sales management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
